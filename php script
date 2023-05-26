@@ -1,0 +1,10 @@
+<?php
+$name = "<h1>BASSEY SAMUEL MBERE</h1>";
+$regno = "2021/HND/34423/CS<br>";
+$stateoforigin = "AKWA IBOM STATE<br>";
+$project = "<strong>WEB BASED PROJECT TOPIC ALLOCATION SYSTEM</strong>";
+echo $name;
+echo $regno;
+echo $stateoforigin;
+echo $project;
+?>
